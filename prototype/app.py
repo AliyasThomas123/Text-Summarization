@@ -1,6 +1,6 @@
 from os import truncate
 import streamlit as st 
-import torch
+#import torch
 from transformers import AutoTokenizer, AutoModelWithLMHead
 
 def main():
